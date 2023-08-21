@@ -138,11 +138,10 @@ cmd>> pip3 install pyvis
 ### For Community detection
 cmd>>  pip3 install python_louvain
 
-
 cmd>> dmesg --> On a Linux system, check the output of dmesg. If the process is getting killed by the kernel, it will have a explanation there. Most probable reason: out of memory, or out of file descriptors.
-
 cmd>> pip install glob2
-
-
 ```
+
+#### Run
+cmd>> python3.11 main.py
 
