@@ -54,21 +54,23 @@
 ### 1. Scraping data
 ### 2. Creating Network
 #### 2.1 Network Graph by NetworkX (Kamada Kawai Layout)
-    <img src="graph/kamada_kawai_layout_graph.png">
+<img src="graph/kamada_kawai_layout_graph.png">
 #### 2.2 Network Graph by pyvis
-    <img src="graph/witcher_network.html">
+<img src="graph/witcher_network.png">
+<img src="graph/witcher_network.html">
 ### 3. Centralities
 #### 3.1. Highest Degrees centrality
-    <img src="graph/degree_centrality_graph.png">
+<img src="graph/degree_centrality_graph.png">
 #### 3.2. Best Closeness 
-    <img src="graph/closeness_centrality_graph.png">
+<img src="graph/closeness_centrality_graph.png">
 #### 3.3. Highest Between-ness Centrality
-    <img src="graph/betweenness_centrality_graph.png">
+<img src="graph/betweenness_centrality_graph.png">
 #### 3.4. Highest Eigenvector Centrality
 ### 4. Community Detection on a network
-    <img src="graph/witcher_communities.html">
+<img src="graph/witcher_communities.png">
+<img src="graph/witcher_communities.html">
 ### 5. Evolution of character by Degree centrality
-    <img src="graph/degree_centrality_evolution_graph.png">
+<img src="graph/degree_centrality_evolution_graph.png">
 
 
 # Stratergy
