@@ -56,8 +56,12 @@
 #### 2.1 Network Graph by NetworkX (Kamada Kawai Layout)
 <img src="graph/kamada_kawai_layout_graph.png">
 
+```Here in the graph, the nodes represents each characters, and the edges represents a relation between the characters```
+
 #### 2.2 Network Graph by pyvis
 <img src="graph/witcher_network.png">
+```Here in the graph, the nodes represents each characters, and the edges represents a relation between the characters. The Larger the Node, the more important is the character based on number of relationships it has formed with other characters. And the thicker the edges the more strong the relationship is, based on the number of interaction between the two connecting nodes. For e.g., Geralt is the most important character in this entire network, and has the most important relationship with Ciri and Yenifer```
+
 
 [Click here]("graph/witcher_network.html")
 
@@ -74,6 +78,7 @@
 #### 3.4. Highest Eigenvector Centrality
 ### 4. Community Detection on a network
 <img src="graph/witcher_communities.png">
+```Here in the graph, the nodes represents each characters, and the edges represents a relation between the characters. The Larger the Node, the more important is the character based on number of relationships it has formed with other characters. And the thicker the edges the more strong the relationship is, based on the number of interaction between the two connecting nodes. Here the color represents different community formed withing the same graph, the community is defined between the same colored nodes and edges, and the community leader is the largest node in the community, for e.g. Geralt is the community leader of blue community, where the blue community is detected as a community formed in the given graph```
 
 [Click here]("graph/witcher_communities.html")
 
